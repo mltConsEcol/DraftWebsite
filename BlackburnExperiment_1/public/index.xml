@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mike Treglia</title>
-    <link>/~/BlackburnExperiment_1/public/</link>
+    <link>/BlackburnExperiment_1/public/</link>
     <description>Recent content on Mike Treglia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/~/BlackburnExperiment_1/public/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/BlackburnExperiment_1/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/~/BlackburnExperiment_1/public/post/creating-a-new-theme/</link>
+      <link>/BlackburnExperiment_1/public/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/post/creating-a-new-theme/</guid>
+      <guid>/BlackburnExperiment_1/public/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/~/BlackburnExperiment_1/public/post/migrate-from-jekyll/</link>
+      <link>/BlackburnExperiment_1/public/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/post/migrate-from-jekyll/</guid>
+      <guid>/BlackburnExperiment_1/public/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -35,10 +35,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>About</title>
-      <link>/~/BlackburnExperiment_1/public/about/</link>
+      <link>/BlackburnExperiment_1/public/about/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/about/</guid>
+      <guid>/BlackburnExperiment_1/public/about/</guid>
       <description>Testing
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -48,20 +48,20 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>About</title>
-      <link>/~/BlackburnExperiment_1/public/about/</link>
+      <link>/BlackburnExperiment_1/public/about/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/about/</guid>
+      <guid>/BlackburnExperiment_1/public/about/</guid>
       <description>Education: There I taught courses on Click Here to view as a PDF Doctor of Philosophy (2014) Texas A&amp;amp;M University, Department of Wildlife and Fisheries, Advised by Dr. Lee Fitzgerald  Dissertation Title: Multi-Scale Conservation in an Altered Landscape: The Case of the Endangered Arroyo Toad in Southern California Masters of Science (2010) Texas A&amp;amp;M University, Department of Wildlife and Fisheries, Advised by Dr. Lee Fitzgerald
  Thesis Title: A Translocated Population of the St.</description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>/~/BlackburnExperiment_1/public/code/</link>
+      <link>/BlackburnExperiment_1/public/code/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/code/</guid>
+      <guid>/BlackburnExperiment_1/public/code/</guid>
       <description>Testing
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -71,10 +71,10 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Research</title>
-      <link>/~/BlackburnExperiment_1/public/research/</link>
+      <link>/BlackburnExperiment_1/public/research/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/research/</guid>
+      <guid>/BlackburnExperiment_1/public/research/</guid>
       <description>Current Research
 My research is broadly focused on using modern statistical and computing tools to inform conservation efforts. I recently started working in New York City, and am using available remote sensing data and GIS datasets to characterize open space dynamics, understand how connected wildlife populations might be across the city, and map previously-unmapped assests, like green roofs. Postdoc Research
 My main reseach at the University of Tulsa was focused on understanding how life history traits of amphibians may play into effects of climate change.</description>
@@ -82,10 +82,10 @@ My main reseach at the University of Tulsa was focused on understanding how life
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/~/BlackburnExperiment_1/public/post/2015-07-23-r-rmarkdown/</link>
+      <link>/BlackburnExperiment_1/public/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/BlackburnExperiment_1/public/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -93,29 +93,29 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Contact</title>
-      <link>/~/BlackburnExperiment_1/public/contact/</link>
+      <link>/BlackburnExperiment_1/public/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/contact/</guid>
+      <guid>/BlackburnExperiment_1/public/contact/</guid>
       <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/~/BlackburnExperiment_1/public/post/goisforlovers/</link>
+      <link>/BlackburnExperiment_1/public/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/post/goisforlovers/</guid>
+      <guid>/BlackburnExperiment_1/public/post/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/~/BlackburnExperiment_1/public/post/hugoisforlovers/</link>
+      <link>/BlackburnExperiment_1/public/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/post/hugoisforlovers/</guid>
+      <guid>/BlackburnExperiment_1/public/post/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -126,19 +126,19 @@ Follow the following steps:
     
     <item>
       <title></title>
-      <link>/~/BlackburnExperiment_1/public/photography/</link>
+      <link>/BlackburnExperiment_1/public/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/photography/</guid>
+      <guid>/BlackburnExperiment_1/public/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/~/BlackburnExperiment_1/public/teaching/</link>
+      <link>/BlackburnExperiment_1/public/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/~/BlackburnExperiment_1/public/teaching/</guid>
+      <guid>/BlackburnExperiment_1/public/teaching/</guid>
       <description></description>
     </item>
     
