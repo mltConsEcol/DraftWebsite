@@ -2,7 +2,7 @@
 #baseurl = "https://www.example.com/"
 #For testing remotely
 #baseurl = "/DraftWebsite/BlackburnExperiment_1/public/"
-baseurl = "https://mltconsecol.github.io"
+baseurl = "https://mltconsecol.github.io/DraftWebsite/BlackburnExperiment_1/public/"
 
 languageCode = "en-us"
 title = "Mike Treglia"
