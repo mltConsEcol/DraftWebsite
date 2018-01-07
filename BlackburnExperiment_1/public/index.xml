@@ -2,92 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mike Treglia</title>
-    <link>/DraftWebsite/BlackburnExperiment_1/public/</link>
+    <link>/</link>
     <description>Recent content on Mike Treglia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/DraftWebsite/BlackburnExperiment_1/public/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/DraftWebsite/BlackburnExperiment_1/public/post/creating-a-new-theme.html</link>
+      <link>/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/DraftWebsite/BlackburnExperiment_1/public/post/creating-a-new-theme.html</guid>
+      <guid>/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/DraftWebsite/BlackburnExperiment_1/public/post/migrate-from-jekyll.html</link>
+      <link>/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/DraftWebsite/BlackburnExperiment_1/public/post/migrate-from-jekyll.html</guid>
+      <guid>/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Testing
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Education: There I taught courses on Click Here to view as a PDF Doctor of Philosophy (2014) Texas A&amp;amp;M University, Department of Wildlife and Fisheries, Advised by Dr. Lee Fitzgerald  Dissertation Title: Multi-Scale Conservation in an Altered Landscape: The Case of the Endangered Arroyo Toad in Southern California Masters of Science (2010) Texas A&amp;amp;M University, Department of Wildlife and Fisheries, Advised by Dr. Lee Fitzgerald
+ Thesis Title: A Translocated Population of the St.</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>/code/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/code/</guid>
+      <description>Testing
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Current Research
+My research is broadly focused on using modern statistical and computing tools to inform conservation efforts. I recently started working in New York City, and am using available remote sensing data and GIS datasets to characterize open space dynamics, understand how connected wildlife populations might be across the city, and map previously-unmapped assests, like green roofs. Postdoc Research
+My main reseach at the University of Tulsa was focused on understanding how life history traits of amphibians may play into effects of climate change.</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
-      <link>/DraftWebsite/BlackburnExperiment_1/public/post/2015-07-23-r-rmarkdown.html</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/DraftWebsite/BlackburnExperiment_1/public/post/2015-07-23-r-rmarkdown.html</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/DraftWebsite/BlackburnExperiment_1/public/about.html</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/DraftWebsite/BlackburnExperiment_1/public/about.html</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
-      <link>/DraftWebsite/BlackburnExperiment_1/public/contact.html</link>
+      <link>/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/DraftWebsite/BlackburnExperiment_1/public/contact.html</guid>
+      <guid>/contact/</guid>
       <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/DraftWebsite/BlackburnExperiment_1/public/post/goisforlovers.html</link>
+      <link>/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/DraftWebsite/BlackburnExperiment_1/public/post/goisforlovers.html</guid>
+      <guid>/post/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/DraftWebsite/BlackburnExperiment_1/public/post/hugoisforlovers.html</link>
+      <link>/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/DraftWebsite/BlackburnExperiment_1/public/post/hugoisforlovers.html</guid>
+      <guid>/post/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description></description>
     </item>
     
   </channel>
