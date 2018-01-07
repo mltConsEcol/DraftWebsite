@@ -1,0 +1,89 @@
+baseurl = "https://www.example.com/"
+languageCode = "en-us"
+title = "Mike Treglia"
+theme = "blackburn"
+author = "Mike Treglia"
+copyright = "&copy; 2018. All rights reserved."
+canonifyurls = true
+paginate = 10
+uglyurls = true
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "Spatial Data • Conservation Science • Photography"
+  brand = "Blackburn"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  # disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Research"
+    pre = "<i class='fa fa-area-chart fa-fw'></i>"
+    weight = 3
+    identifier = "research"
+    url = "/research/"
+  [[menu.main]]
+    name = "Training"
+    pre = "<i class='fa fa-area-chart fa-fw'></i>"
+    weight = 4
+    identifier = "training"
+    url = "/training/"
+  [[menu.main]]
+    name = "Coding Projects"
+    pre = "<i class='fa fa-code fa-fw'></i>"
+    weight = 5
+    identifier = "code"
+    url = "/code/"
+  [[menu.main]]
+    name = "CV"
+    pre = "<i class='fa fa-file fa-fw'></i>"
+    weight = 6
+    identifier = "cv"
+    url = "/pdfs/treglia_cv_20180107_norefs.pdf"
+  [[menu.main]]
+    name = "Photography"
+    pre = "<i class='fa fa-camera fa-fw'></i>"
+    weight = 7
+    identifier = "photography"
+    url = "/photography/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 8
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 9
+    url = "/contact/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "miketreglia"
+  #facebook = "*"
+  instagram = "m1ketreglia"
+  github = "mtreg"
+  #stackoverflow = "*"
+  #linkedin = "*"
