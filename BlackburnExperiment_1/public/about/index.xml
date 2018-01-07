@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Mike Treglia</title>
-    <link>/about/</link>
+    <link>/~/BlackburnExperiment_1/public/about/</link>
     <description>Recent content in Abouts on Mike Treglia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
     <lastBuildDate>Sun, 07 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/~/BlackburnExperiment_1/public/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/~/BlackburnExperiment_1/public/about/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/~/BlackburnExperiment_1/public/about/</guid>
       <description>Education: There I taught courses on Click Here to view as a PDF Doctor of Philosophy (2014) Texas A&amp;amp;M University, Department of Wildlife and Fisheries, Advised by Dr. Lee Fitzgerald  Dissertation Title: Multi-Scale Conservation in an Altered Landscape: The Case of the Endangered Arroyo Toad in Southern California Masters of Science (2010) Texas A&amp;amp;M University, Department of Wildlife and Fisheries, Advised by Dr. Lee Fitzgerald
  Thesis Title: A Translocated Population of the St.</description>
     </item>
