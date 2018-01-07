@@ -1,8 +1,9 @@
 #For Testing locally
 #baseurl = "https://www.example.com/"
 #For testing remotely
-baseurl = "/DraftWebsite/BlackburnExperiment_1/public/"
-#baseurl="https://mltconsecol.github.io/DraftWebsite/BlackburnExperiment_1/public/"
+#baseurl = "/DraftWebsite/BlackburnExperiment_1/public/"
+baseurl = "https://mltconsecol.github.io"
+
 languageCode = "en-us"
 title = "Mike Treglia"
 theme = "Blackburn"
@@ -10,7 +11,8 @@ author = "Mike Treglia"
 copyright = "&copy; 2018. All rights reserved."
 canonifyurls = true
 paginate = 10
-#uglyurls = true
+uglyurls = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [indexes]
   tag = "tags"
