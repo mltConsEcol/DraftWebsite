@@ -7,8 +7,12 @@ description = "About me and this site"
 
 <p align="center"><img src="Mike_Home.png" align="middle"/></p
 
+
 <p><big><big><b><u>Education:</u></b></big></big></b>
 <br />
+There I taught courses on <a href="treglia_cv_20180107_norefs.pdf" target="_About">Click Here to view as a PDF</a>
+
+
 <b>Doctor of Philosophy (2014) Texas A&amp;M
 University, Department of Wildlife and Fisheries, Advised by Dr. Lee
 Fitzgerald </b>
